@@ -1,0 +1,34 @@
+.image-container img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.heading h1 {
+    font-family: "Open Sans",sans-serif !important;
+    letter-spacing: 0.001em;
+    text-align: center;
+    color: #aaaaaa;
+    margin-bottom: 50px;
+}
+
+#caption {
+    font-style: italic;
+}
+
+#firstList {
+    float: left;
+    margin-right: 100px;
+}
+
+.courses {
+    background-color: #e7eaee;
+    margin-bottom: 25px;
+}
+
+#findCourseBtn {
+    background-color: #4A89DC;
+    padding: 13px 18px;
+    border-radius: 10px;
+    color: white;
+}
